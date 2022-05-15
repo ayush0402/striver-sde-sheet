@@ -34,6 +34,19 @@ Collection of my solutions to Striver's SDE Sheet.
 
 | Problem  | Solution |
 | ----------- | ----------- |
+| [Search in a 2d Matrix](https://leetcode.com/problems/search-a-2d-matrix/)    |        |
+| [Pow(x,n)](https://leetcode.com/problems/powx-n/)  |    |
+| [Majority Element (>N/2 times)](https://leetcode.com/problems/majority-element/)    |        |
+| [Majority Element (>N/3 times)](https://leetcode.com/problems/majority-element-ii/)  |    |
+| [Grid Unique Paths](https://leetcode.com/problems/unique-paths/)    |        |
+| [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)  |    |
+</details>
+
+<details>
+	<summary>Day 4 : Arrays-IV </summary>
+
+| Problem  | Solution |
+| ----------- | ----------- |
 | [2-Sum-Problem](https://leetcode.com/problems/two-sum/)    |        |
 | [4-sum-Problem](https://leetcode.com/problems/4sum/)  |    |
 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)    |        |
