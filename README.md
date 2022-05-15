@@ -28,3 +28,16 @@ Collection of my solutions to Striver's SDE Sheet.
 | [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)    |        |
 | [Inversion of Array (Pre-req: Merge Sort)](https://www.codingninjas.com/codestudio/problems/count-inversions_615)  |    |
 </details>
+
+<details>
+	<summary>Day 3 : Arrays-III </summary>
+
+| Problem  | Solution |
+| ----------- | ----------- |
+| [2-Sum-Problem](https://leetcode.com/problems/two-sum/)    |        |
+| [4-sum-Problem](https://leetcode.com/problems/4sum/)  |    |
+| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)    |        |
+| [Largest Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)  |    |
+| [Count number of subarrays with given Xor K](https://www.interviewbit.com/problems/subarray-with-given-xor/)    |        |
+| [Longest Substring without repeat](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |    |
+</details>
