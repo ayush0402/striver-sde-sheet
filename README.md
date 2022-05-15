@@ -8,12 +8,12 @@ Collection of my solutions to Striver's SDE Sheet.
 
 | Problem  | Solution |
 | ----------- | ----------- |
-| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)    |        |
-| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)  |    |
-| [Next Permutation](https://leetcode.com/problems/next-permutation/)    |        |
-| [Kadane’s Algorithm](https://leetcode.com/problems/maximum-subarray/)  |    |
-| [Sort an array of 0’s 1’s 2’s](https://leetcode.com/problems/sort-colors/)    |        |
-| [Stock buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  |    |
+| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)    |    [Link](https://github.com/ayush0402/striver-sde-sheet/blob/main/day_1/set_matrix_zeroes.cpp)    |
+| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)  |  [Link](https://github.com/ayush0402/striver-sde-sheet/blob/main/day_1/pascals_traingle.cpp)  |
+| [Next Permutation](https://leetcode.com/problems/next-permutation/)    |   [Link](https://github.com/ayush0402/striver-sde-sheet/blob/main/day_1/next_permutation.cpp)     |
+| [Kadane’s Algorithm](https://leetcode.com/problems/maximum-subarray/)  | [Link](https://github.com/ayush0402/striver-sde-sheet/blob/main/day_1/kadanes_algorithm.cpp)  |
+| [Sort an array of 0’s 1’s 2’s](https://leetcode.com/problems/sort-colors/)    |     [Link](https://github.com/ayush0402/striver-sde-sheet/blob/main/day_1/sort_an_array_of_0s_1s_2s.cpp)   |
+| [Stock buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  |   [Link](https://github.com/ayush0402/striver-sde-sheet/blob/main/day_1/stock_buy_and_sell.cpp) |
 </details>
 
 <details>
@@ -21,12 +21,12 @@ Collection of my solutions to Striver's SDE Sheet.
 
 | Problem  | Solution |
 | ----------- | ----------- |
-| [Rotate Matrix](https://leetcode.com/problems/rotate-image/)    |        |
-| [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/)  |    |
-| [Merge two sorted Arrays without extra space](https://leetcode.com/problems/merge-sorted-array/)    |        |
-| [Find the duplicate in an array of N+1 integers.](https://leetcode.com/problems/find-the-duplicate-number/)  |    |
-| [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)    |        |
-| [Inversion of Array (Pre-req: Merge Sort)](https://www.codingninjas.com/codestudio/problems/count-inversions_615)  |    |
+| [Rotate Matrix](https://leetcode.com/problems/rotate-image/)    |    [Link](https://github.com/ayush0402/striver-sde-sheet/blob/main/day_2/rotate_matrix.cpp)    |
+| [Merge Overlapping Subintervals](https://leetcode.com/problems/merge-intervals/)  |  [Link](https://github.com/ayush0402/striver-sde-sheet/blob/main/day_2/merge_intervals.cpp)  |
+| [Merge two sorted Arrays without extra space](https://leetcode.com/problems/merge-sorted-array/)    |   [Link](https://github.com/ayush0402/striver-sde-sheet/blob/main/day_2/merge_sorted_arrays.cpp)     |
+| [Find the duplicate in an array of N+1 integers.](https://leetcode.com/problems/find-the-duplicate-number/)  |  [Link](https://github.com/ayush0402/striver-sde-sheet/blob/main/day_2/find_the_duplicate_in_an_array_of_n%2B1_numbers.cpp)  |
+| [Repeat and Missing Number](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)    |     [Link](https://github.com/ayush0402/striver-sde-sheet/blob/main/day_2/repeat_and_missing_number.cpp)   |
+| [Inversion of Array (Pre-req: Merge Sort)](https://www.codingninjas.com/codestudio/problems/count-inversions_615)  | [Link](https://github.com/ayush0402/striver-sde-sheet/blob/main/day_2/inversion_of_array.cpp)   |
 </details>
 
 <details>
@@ -34,12 +34,12 @@ Collection of my solutions to Striver's SDE Sheet.
 
 | Problem  | Solution |
 | ----------- | ----------- |
-| [Search in a 2d Matrix](https://leetcode.com/problems/search-a-2d-matrix/)    |        |
-| [Pow(x,n)](https://leetcode.com/problems/powx-n/)  |    |
-| [Majority Element (>N/2 times)](https://leetcode.com/problems/majority-element/)    |        |
-| [Majority Element (>N/3 times)](https://leetcode.com/problems/majority-element-ii/)  |    |
-| [Grid Unique Paths](https://leetcode.com/problems/unique-paths/)    |        |
-| [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)  |    |
+| [Search in a 2d Matrix](https://leetcode.com/problems/search-a-2d-matrix/)    |   [Link](https://github.com/ayush0402/striver-sde-sheet/blob/main/day_3/search_in_2d_matrix.cpp)     |
+| [Pow(x,n)](https://leetcode.com/problems/powx-n/)  |  [Link](https://github.com/ayush0402/striver-sde-sheet/blob/main/day_3/pow(x%2Cn).cpp)  |
+| [Majority Element (>N/2 times)](https://leetcode.com/problems/majority-element/)    |    [Link](https://github.com/ayush0402/striver-sde-sheet/blob/main/day_3/majority_element.cpp)    |
+| [Majority Element (>N/3 times)](https://leetcode.com/problems/majority-element-ii/)  |  [Link](https://github.com/ayush0402/striver-sde-sheet/blob/main/day_3/majority_element_ii.cpp)  |
+| [Grid Unique Paths](https://leetcode.com/problems/unique-paths/)    |    [Link](https://github.com/ayush0402/striver-sde-sheet/blob/main/day_3/grid_unique_paths.cpp)    |
+| [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)  |  [Link](https://github.com/ayush0402/striver-sde-sheet/blob/main/day_3/reverse_pairs.cpp)  |
 </details>
 
 <details>
