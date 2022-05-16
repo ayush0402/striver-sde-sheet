@@ -1,5 +1,8 @@
 vector<int> Solution::repeatedNumber(const vector<int> &A) {
-	int n = A.size();
+
+	// #TODO : Try the Bit Manipulation Method using XOR.
+
+	long long int n = A.size();
 	long long int expectedsum = (n * (n + 1)) / 2;
 	long long int expectedsquaresum = (n * (n + 1) * (2 * n + 1)) / 6;
 

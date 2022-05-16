@@ -54,3 +54,16 @@ Collection of my solutions to Striver's SDE Sheet.
 | [Count number of subarrays with given Xor K](https://www.interviewbit.com/problems/subarray-with-given-xor/)    |        |
 | [Longest Substring without repeat](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |    |
 </details>
+
+<details>
+	<summary>Day 8 : Greedy Algorithm </summary>
+
+| Problem  | Solution |
+| ----------- | ----------- |
+| [N meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)    |        |
+| [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)  |    |
+| [Job sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#)    |        |
+| [Fractional Knapsack Problem](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)  |    |
+| [Minimum number of coins](https://bit.ly/3nquVHj)    |        |
+| [Activity Selection](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)  |    |
+</details>
