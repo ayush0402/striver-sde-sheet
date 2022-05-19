@@ -73,12 +73,25 @@ Collection of my solutions to Striver's SDE Sheet.
 
 | Problem  | Solution |
 | ----------- | ----------- |
-| [Find intersection point of Y LinkedList	](https://leetcode.com/problems/intersection-of-two-linked-lists/)    |        |
+| [Find intersection point of Y LinkedList](https://leetcode.com/problems/intersection-of-two-linked-lists/)    |        |
 | [Detect a cycle in Linked List](https://leetcode.com/problems/linked-list-cycle/)  |    |
 | [Reverse a LinkedList in groups of size k.](https://leetcode.com/problems/reverse-nodes-in-k-group/)    |        |
 | [Check if a LinkedList is palindrome or not.](https://leetcode.com/problems/palindrome-linked-list/)  |    |
 | [Find the starting point of the Loop of LinkedList](https://leetcode.com/problems/linked-list-cycle-ii/)    |        |
 | [Flattening of a LinkedList](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)  |    |
+</details>
+
+<details>
+	<summary>Day 7 : Linked List and Arrays</summary>
+
+| Problem  | Solution |
+| ----------- | ----------- |
+| [Rotate a LinkedList](https://leetcode.com/problems/rotate-list/description/)    |        |
+| [Clone a Linked List with random and next pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |    |
+| [3 sum](https://leetcode.com/problems/3sum/)    |        |
+| [Trapping rainwater](https://leetcode.com/problems/trapping-rain-water/)  |    |
+| [Remove Duplicate from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)    |        |
+| [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/)  |    |
 </details>
 
 <details>
