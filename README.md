@@ -69,6 +69,19 @@ Collection of my solutions to Striver's SDE Sheet.
 </details>
 
 <details>
+	<summary>Day 6 : Linked List-II</summary>
+
+| Problem  | Solution |
+| ----------- | ----------- |
+| [Find intersection point of Y LinkedList	](https://leetcode.com/problems/intersection-of-two-linked-lists/)    |        |
+| [Detect a cycle in Linked List](https://leetcode.com/problems/linked-list-cycle/)  |    |
+| [Reverse a LinkedList in groups of size k.](https://leetcode.com/problems/reverse-nodes-in-k-group/)    |        |
+| [Check if a LinkedList is palindrome or not.](https://leetcode.com/problems/palindrome-linked-list/)  |    |
+| [Find the starting point of the Loop of LinkedList](https://leetcode.com/problems/linked-list-cycle-ii/)    |        |
+| [Flattening of a LinkedList](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)  |    |
+</details>
+
+<details>
 	<summary>Day 8 : Greedy Algorithm </summary>
 
 | Problem  | Solution |
