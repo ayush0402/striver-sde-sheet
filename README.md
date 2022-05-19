@@ -56,6 +56,19 @@ Collection of my solutions to Striver's SDE Sheet.
 </details>
 
 <details>
+	<summary>Day 5 : Linked List </summary>
+
+| Problem  | Solution |
+| ----------- | ----------- |
+| [Reverse a LinkedList](https://leetcode.com/problems/reverse-linked-list/)    |        |
+| [Find the middle of LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/)  |    |
+| [Merge Sorted LinkedList](https://leetcode.com/problems/merge-two-sorted-lists/)    |        |
+| [Remove N-th node from back of LinkedList](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  |    |
+| [Add two numbers as LinkedList](https://leetcode.com/problems/add-two-numbers/)    |        |
+| [Delete a given node](https://leetcode.com/problems/delete-node-in-a-linked-list/)  |    |
+</details>
+
+<details>
 	<summary>Day 8 : Greedy Algorithm </summary>
 
 | Problem  | Solution |
