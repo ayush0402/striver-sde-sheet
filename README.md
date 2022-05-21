@@ -106,3 +106,23 @@ Collection of my solutions to Striver's SDE Sheet.
 | [Minimum number of coins](https://bit.ly/3nquVHj)    |        |
 | [Activity Selection](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)  |    |
 </details>
+
+<details>
+	<summary>Day 23 : Graphs </summary>
+
+| Problem  | Solution |
+| ----------- | ----------- |
+| [Clone a graph](https://leetcode.com/problems/clone-graph/)    |        |
+| [DFS](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)  |    |
+| [BFS](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)    |        |
+| [Detect A cycle in Undirected Graph using BFS](https://leetcode.com/problems/course-schedule/)  |    |
+| [Detect A cycle in Undirected Graph using DFS](https://leetcode.com/problems/course-schedule/)    |        |
+| [Detect A cycle in a Directed Graph using DFS](https://leetcode.com/problems/course-schedule/)  |    |
+| [Detect A cycle in a Directed Graph using BFS](https://leetcode.com/problems/course-schedule/)  |    |
+| [Topological Sort BFS](https://practice.geeksforgeeks.org/problems/topological-sort/1)  |    |
+| [Topological Sort DFS](https://practice.geeksforgeeks.org/problems/topological-sort/1)  |    |
+| [Number of islands(Do in Grid and Graph Both)](https://leetcode.com/problems/number-of-islands/)  |    |
+| [Bipartite Check using BFS](https://leetcode.com/problems/is-graph-bipartite/)  |    |
+| [Bipartite Check using DFS](https://leetcode.com/problems/is-graph-bipartite/)  |    |
+</details>
+
