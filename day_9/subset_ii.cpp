@@ -11,6 +11,13 @@
  * Reference: https://www.youtube.com/watch?v=RIn3gOkbhQE
 */
 
+
+/**
+ * Look at this post:
+ * https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)
+ *
+*/
+
 class Solution {
 public:
     void recur(vector <int>& nums, vector<vector<int>>& ans, vector<int>& temp, int n) {

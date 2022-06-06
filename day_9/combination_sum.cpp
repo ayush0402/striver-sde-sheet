@@ -20,3 +20,28 @@ public:
         return ans;
     }
 };
+
+// Other method to write the function:
+
+class Solution {
+public:
+    void recur(vector<vector<int>>& ans, vector<int>& candidates, int target, int sum, vector<int>& temp, int start) {
+        if (sum == target) {
+            ans.push_back(temp);
+            return;
+        }
+        for (int i = start; i < candidates.size(); i++) {
+            if (sum + candidates[i] <= target) {
+                temp.push_back(candidates[i]);
+                recur(ans, candidates, target, sum + candidates[i], temp, i);
+                temp.pop_back();
+            }
+        }
+    }
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<vector<int>> ans;
+        vector <int> temp;
+        recur(ans, candidates, target, 0, temp, 0);
+        return ans;
+    }
+};
