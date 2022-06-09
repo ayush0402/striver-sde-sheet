@@ -21,3 +21,28 @@ public:
         return ans;
     }
 };
+
+class Solution {
+public:
+    void recur(vector<int>& candidates, int target, int sum, int index, vector<int>& temp, vector<vector<int>>& ans) {
+        if (target == sum) {
+            ans.push_back(temp);
+            return;
+        }
+        for (int i = index; i < candidates.size(); i++) {
+            if (i != index && candidates[i - 1] == candidates[i])continue;
+            if (candidates[i] + sum > target)continue;
+            temp.push_back(candidates[i]);
+            recur(candidates, target, sum + candidates[i], i + 1, temp, ans);
+            temp.pop_back();
+        }
+    }
+    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        sort(candidates.begin(), candidates.end());
+        vector<int> temp;
+        vector<vector<int>> ans;
+        recur(candidates, target, 0, 0, temp, ans);
+
+        return ans;
+    }
+};
