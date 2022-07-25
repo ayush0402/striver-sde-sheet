@@ -1,5 +1,3 @@
-// # TODO
-
 /************************************************************
 
     Following is the Binary Tree node structure:
@@ -37,14 +35,16 @@ vector<vector<int>> getTreeTraversal(BinaryTreeNode<int> *root) {
         if (num == 1) {
             preorder.push_back(node->data);
             num++;
+            st.push({node, num});
             if (node->left != NULL)
-                st.push({node->left, num});
+                st.push({node->left, 1});
         }
         else if (num == 2) {
             inorder.push_back(node->data);
             num++;
+            st.push({node, num});
             if (node->right != NULL)
-                st.push({node->right, num});
+                st.push({node->right, 1});
         }
         else {
             postorder.push_back(node->data);
