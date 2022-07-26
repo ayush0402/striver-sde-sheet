@@ -1,4 +1,4 @@
-// First solution will give WA in case of int overflows of indexes.
+// First solution will give error in case of int overflows of indexes.
 
 /**
  * Definition for a binary tree node.
